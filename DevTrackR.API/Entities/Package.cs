@@ -14,11 +14,6 @@
 
         public void AddUpdate(string status, bool delivered)
         {
-            if (delivered)
-            {
-                throw new Exception("Package already delivered!");
-            }
-
             var update = new PackageUpdate(status, Id);
             Updates.Add(update);
 
