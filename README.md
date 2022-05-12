@@ -1,2 +1,2 @@
-# FundamentosCSharp_e_POO
-Aula da Jornada .NET Direto ao Ponto com Luis Felipe (@luisdeol).
+# Jornada .Net Direto ao Ponto
+5 Aulas com o instrutor Luis Felipe (@luisdeol) realizadas de 09/05 a 13/05/2022.
